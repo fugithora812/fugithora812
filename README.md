@@ -16,6 +16,38 @@ Here are some ideas to get you started:
 -->
 
 
+# スキル
+
+業務で扱った技術を列挙。
+
+Golang, Python, Django, PostgreSQL, Git, Docker, Docker Compose, JavaScript, TypeScript, jQuery
+
+<!-- # スキル
+
+## 言語等
+
+Python | Golang | HTML | CSS | JavaScript | jQuery | TypeScript
+
+## フレームワーク等
+
+Flask
+Django
+Node.js
+Express
+Travis CI
+pybabel
+RDB/NoSQL
+MySQL | PostgreSQL | SQL Server
+
+## クラウド
+
+- AWS
+    - EC2 | VPC
+
+## SaaS/PaaS
+
+- GitHub -->
+
 # 主な業務経歴
 
 ## 学術研究支援サービス（2021年５月～）
