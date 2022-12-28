@@ -110,6 +110,7 @@ Webメディア「[松岡正剛の千夜千冊](https://1000ya.isis.ne.jp/)」�
 
 - https://github.com/fugithora812/ut_pictura_poesis_frontend
 - https://github.com/fugithora812/ut_pictura_poesis_apidoc
+- （バックエンド側は共同開発者が構築し、合議の上privateリポジトリとしている）
 
 ### 2022年12月〜　初期開発
 
