@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 業務で扱った技術を列挙。
 
-Golang, Python, Django, PostgreSQL, Git, Docker, Docker Compose, JavaScript, TypeScript, jQuery
+Golang, Python, Django, PostgreSQL, Git, Docker, Docker Compose, JavaScript, TypeScript, jQuery,  
+Ruby on Rails, MySQL, React, OpenAPI, Github Actions, Google Cloud(GCE, GKE, CloudRun etc..)
 
 <!-- # スキル
 
