@@ -122,5 +122,3 @@ Webメディア「[松岡正剛の千夜千冊](https://1000ya.isis.ne.jp/)」�
     - react-router-domを利用したページ遷移の実装
     - ツール上に収集した画像をドラッグ＆ドロップで並びかえる機能の実装
     - [Firebase](https://firebase.google.com/?hl=ja)を用いたログイン機能の実装
-
-### 2022年12月〜　初期開発
