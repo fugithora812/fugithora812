@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# スキル
+# 主なスキル
 
 業務で扱った技術を列挙。
 
