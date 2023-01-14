@@ -108,10 +108,6 @@ Python、Docker、Git、TypeScriptについては業務外で学習した経験�
 
 Webメディア「[松岡正剛の千夜千冊](https://1000ya.isis.ne.jp/)」編集チームからの依頼で、彼らが使用する図版収集・構成ツールを２人体制で開発。
 
-- https://github.com/fugithora812/ut_pictura_poesis_frontend
-- https://github.com/fugithora812/ut_pictura_poesis_apidoc
-- （バックエンド側は共同開発者が構築し、合議の上privateリポジトリとしている）
-
 ### 2022年12月〜　初期開発
 
 - 実施した施策
