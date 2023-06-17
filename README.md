@@ -109,6 +109,8 @@ Python、Docker、Git、TypeScriptについては業務外で学習した経験�
 - 実施した施策
   - CIツールをCircleCIからGitHub Actionsへ切替
   - BigQueryを利用した一部データのアーカイブ
+  - コスト削減のためのインフラ施策
+    - 複数の開発環境のCloudSQLインスタンスを１つに集約（10万円程度の削減に成功）
 
 ## 図版収集・構成ツールの開発（2022年12月〜）
 
