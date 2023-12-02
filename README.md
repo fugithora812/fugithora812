@@ -1,7 +1,8 @@
-### Hi there 👋
+<div align='center'>
 
+# 👋👋👋 Welcome to my profile 👋👋👋
 
-
+</div>
 
 
 <!--
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
  
-## My Skill Set
+## <img src="skills.gif" width="30" height="20">  My Skill Set  <img src="skills.gif" width="30" height="20">
  
 </div>
 
