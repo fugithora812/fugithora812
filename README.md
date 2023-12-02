@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align='center'>
+ 
+## My Skill Set
+ 
+</div>
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -157,6 +161,8 @@ Python、Docker、Git、TypeScriptについては業務外で学習した経験�
 
 当時のリードエンジニアの下、Google Cloudで構築したアプリケーションインフラの管理、運用に従事。
 
+
+
 - 実施した施策
   - コスト削減の観点から、時間帯ごとの利用実態に沿ってGKEのHPA幅を拡大・縮小させる
   - アプリケーションへの新規機能の実装に伴う、インフラリソースの新規定義（GKE, Cloud Build）  
@@ -222,3 +228,5 @@ Webメディア「[松岡正剛の千夜千冊](https://1000ya.isis.ne.jp/)」�
     - React Testing Libraryを利用したテストの実装
     - Playwrightを利用したE2Eテストの実施
     - GitHub Actionsを利用したコードチェック・テスト実施の自動化
+
+
