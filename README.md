@@ -19,7 +19,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💼 Career Summary
+
+**株式会社ZENKIGEN** | 2022年4月 - 現在  
+採用DXサービス「[harutaka](https://harutaka.jp/)」開発チーム
+
+- **2024年 -** サブリーダーとして開発チームをリード
+  - 開発・運用の主担当として各ステークホルダーとコミュニケーション
+  - 社員・業務委託メンバーの採用活動に従事
+  - 新規開発チームへのプロダクト運用知見の提供
+  
+- **主な成果**
+  - **大規模データ移行**: Interview Maker事業承継に伴う約15万件のデータ移行を設計・実行
+  - **コスト最適化**: CloudSQL (MySQL) 5.7→8.4アップグレード対応により、システム原価を大幅削減
+  - **インフラ改善**: 複数の開発環境のCloudSQLインスタンス統合で月額10万円のコスト削減を実現
+  - **CI/CD改善**: CircleCI→GitHub Actions移行、CI実行時間を60%短縮
+  - **セキュリティ強化**: 脆弱性診断プロセスの推進、BCP試験の実施
+  - **新機能開発**: 構造化議事録機能、外部ツール連携機能の設計・実装
+
 <div align='center'>
+
+
  
 ## <img src="skills.gif" width="30" height="20">  My Skill Set  <img src="skills.gif" width="30" height="20">
  
@@ -76,142 +96,73 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<!--
-# 主なスキル
+## 🚀 Key Projects
 
-業務で扱った技術を列挙。
+### 採用DXサービス「harutaka」(2022年4月 - 現在)
+**Role:** Full-stack Engineer → Sub-leader (2024-)  
+**Tech Stack:** Ruby on Rails, React, TypeScript, Google Cloud (GKE, CloudSQL, Cloud Build), AWS (S3, MediaConverter)
 
-Golang, Python, Django, PostgreSQL, Git, Docker, Docker Compose, JavaScript, TypeScript, jQuery,  
-Ruby on Rails, MySQL, React, OpenAPI, Github Actions, Google Cloud(GCE, GKE, CloudRun etc..)
+#### Technical Achievements
+- 大規模システムのデータベースアップグレード（MySQL 5.7→8.4）とパフォーマンス最適化
+- Interview Maker事業承継に伴う15万件超のデータ移行プロジェクトをリード
+- インフラコスト最適化施策により月額コストを大幅削減
+- CI/CD パイプラインの改善（実行時間60%短縮）
+- セキュリティ強化（脆弱性診断、BCP試験の推進）
 
- # スキル
+#### Feature Development
+- 構造化議事録機能の設計・実装（AI活用した面接文字起こしのカテゴリ分類）
+- 外部ツール連携機能の設計・実装
+- フロントエンドライブラリの大規模アップデート対応
 
-## 言語等
+---
 
-Python | Golang | HTML | CSS | JavaScript | jQuery | TypeScript
+### 図版収集・構成ツール開発 (2022年12月 - 2023年5月)
+**Role:** Lead Frontend Engineer  
+**Tech Stack:** React, TypeScript, Vite, Firebase, OpenAPI, Playwright
 
-## フレームワーク等
+- スキーマ駆動開発の導入によるBE/FE間の連携強化
+- ドラッグ&ドロップ機能の実装
+- E2Eテストの導入とCI/CD環境の構築
+- ESLint/Prettierによるコード品質管理の確立
 
-Flask
-Django
-Node.js
-Express
-Travis CI
-pybabel
-RDB/NoSQL
-MySQL | PostgreSQL | SQL Server
+---
 
-## クラウド
+### 学術研究支援サービス (2021年5月 - 12月)
+**Role:** Developer → Project Leader  
+**Tech Stack:** Golang, PostgreSQL, Docker, JavaScript
 
-- AWS
-    - EC2 | VPC
+- OSSプロトタイプを予定より2週間早期に実装完了
+- プロジェクトリーダーとしてチームの進捗管理を担当
+- 顧客との密なコミュニケーションにより手戻りを最小化
 
-## SaaS/PaaS
+---
 
-- GitHub -->
+### 学術研究データ管理サービス (2021年1月 - 4月)
+**Role:** Full-stack Engineer  
+**Tech Stack:** Python, Django, TypeScript, Docker
 
-# 🌱 主な業務経歴
+- 配属初日から実装着手し、高速な開発サイクルを実現
+- バックエンド・フロントエンド両面での機能拡充を担当
 
-## 🔭 学術研究支援サービス（2021年５月～）
+<br/>
 
-### ✨プロジェクト概要
+---
 
-すでにサービスインしている、お客様の各種サービス間でデータ連携が十分になされていないという課題があり、その問題解決および、サービス全体の社会的価値向上のためのプロジェクト。目的に照らした具体的な機能提案やOSSを利用したプロトタイプの作成、およびプロジェクトリーダーとしてチームの進捗管理を担当した。
+## 💪 Strengths
 
-### ✨使用技術
+- **Technical Leadership**: サブリーダーとしてチームをリードし、採用活動にも従事
+- **Full-stack Development**: フロントエンドからバックエンド、インフラまで幅広く対応
+- **Cost Optimization**: インフラコスト削減やシステム効率化の実績
+- **AI Native**: 生成AIも効果的に活用し、即戦力として貢献
+- **Problem Solving**: 大規模データ移行やシステムアップグレードなど複雑な課題を解決
+- **Communication**: ステークホルダーとの調整や技術的な意思決定を推進
 
-Golang, Docker, Git, PostgreSQL, jQuery, JavaScript
+<br/>
 
-### ✨発揮したバリュー
+---
 
-本プロジェクトに配属されてから、Go言語のコードを初めて読むことになったが、持ち前の学習力・調査力を活かし、利用するOSSが現状どのような機能を持っているか把握し、懸念点等とも合わせて報告した。また、お客様と頻繁にコミュニケーションをとることで認識齟齬による手戻りを最小限にした結果、お客様がプロトタイプとして求める機能を予定より２週間ほど早く実装できた。2021年12月～は、関連プロジェクトの状況の変化もあり、プロジェクトリーダーとしてチームの進捗管理も兼務。
+<div align='center'>
 
-## 🔭 学術研究データ管理サービスの拡張（2021年１月～４月）
+*Let's build something great together!* 🚀
 
-### ✨プロジェクト概要
-
-既に運用が始まっている、学術研究データ管理のためのWebサービスで、顧客満足度を向上させるための機能拡充を目的としたプロジェクト。サービスのソースコードとしてはOSSをベースにし、独自の諸機能を実装。開発体制としてはGM、PLと、私を含めた開発メンバ２人の、計４人による小規模なプロジェクトだった。
-
-### ✨使用技術
-
-Python, Django, Git, Docker, Docker Compose, TypeScript
-
-### ✨発揮したバリュー
-
-Python、Docker、Git、TypeScriptについては業務外で学習した経験があったため、配属初日からプロジェクト状況を伺いつつ実装に着手した。経験豊富な先輩との開発ということもあり、私１人では解決できないエラーは質問させていただきながら、コーティングを進めた。当初はDjangoを用いたバックエンドのみの担当という予定だったが、実装スピードの早さを評価いただき、配属３か月目にはEmber.js+TypeScriptを用いたフロントエンドの実装にも、一部関わらせていただいた。
-
-## 🔭 採用DXサービス開発チームにジョイン（2022年４月〜）
-
-22年４月より、採用DXサービス「[harutaka](https://harutaka.jp/)」開発チームにジョイン。
-
-### ✨22年４月〜　Google Cloud上のインフラリソース管理・運用
-
-当時のリードエンジニアの下、Google Cloudで構築したアプリケーションインフラの管理、運用に従事。
-
-- 実施した施策
-  - コスト削減の観点から、時間帯ごとの利用実態に沿ってGKEのHPA幅を拡大・縮小させる
-  - アプリケーションへの新規機能の実装に伴う、インフラリソースの新規定義（GKE, Cloud Build）  
-  他
-
-### ✨22年８月〜　新規機能開発を担当
-
-- 実施した施策
-  - 実施した面接の文字起こしに対し自動的にカテゴリ分類する機能（「構造化議事録」機能）
-    - フロントエンドにおける初期実装、およびQA工程におけるバグ対応に従事。(React w/ Typescript)
-  - harutakaと外部ライブツールとの連携機能の開発
-    - アプリケーションにおける連携機能設計から初期実装までを担当。(Rails)
-    - またアプリケーションに既存の解析機能の、連携に伴うロジック改修を実施。(Golang, Python)
-  - 「構造化議事録」機能の拡張  
-    （リアルタイムに起こした文字起こしだけでなく、過去の録画に対して後から起こした文字起こしにも適用する）
-    - PdMとの仕様すり合わせ、およびそれに沿った実装を担当。（Rails）
-
-### ✨23年１月〜　機能修繕・運用を担当
-
-- 実施した施策
-  - CIツールをCircleCIからGitHub Actionsへ切替
-  - BigQueryを利用した一部データのアーカイブ
-  - コスト削減のためのインフラ施策
-    - 複数の開発環境のCloudSQLインスタンスを１つに集約（10万円程度の削減に成功）
-   
-### ✨23年７月〜　機能開発の支援、およびインフラ・セキュリティ関連の施策に従事
-
-- 実施した施策
-  - frontendリポジトリのライブラリアップデート
-    - React, TypeScript etc..
-    - 主要ライブラリを一挙にアップデートした結果CIで1000件ほどエラーになり修正に苦労した
-    - 後日、参画したfrontendエンジニアが[renovate](https://github.com/renovatebot/renovate)を入れてライブラリ更新について自動でウォッチする体制を整えてくれた
-  - 導入しているサーバ監視ツール[mackerel](https://ja.mackerel.io/)の監視ルールについてチーム内で不明点が上がったため調査
-    - 特定の監視ルールがブラウザ上のmackerelコンソールから確認できないというもの
-    - 該当リポジトリ内で設定を定義しているconfファイルを確認し、調査終了
-  - frontendリポジトリのCI (Github Actions)でlintやtestが想定外にスキップされる問題が発覚したため、その調査と対応を実施
-  - 主要リポジトリのCI実施時間の短縮施策を推進
-    - それぞれ20分程度かかっていたものを、jobの分割と並列化により60%程度短縮
-  - サービスが利用するドメインのSSLサーバ証明書を更新
-    - 後日、SSL/TLSに関する知見をまとめてチームの勉強会にて共有
-  - BCP試験の推進
-    - 天災等でサービス提供が困難になった際、可及的速やかに提供再開する能力を有していることを証明する試験の実施。社内セキュリティ部門のISMS施策と協調して進めたもの
-    - terraformを用いてサービス提供に必要なインフラリソースを定義し、`terraform apply`で作成した新環境で従来同様のサービス提供ができることを確認
-  - 脆弱性診断の推進
-    - サービスの脆弱性検知・対応のための脆弱性診断作業を実施。
-    - 社内外でコミュニケーションを取りつつ、有料診断ツール利用のための契約締結・診断実施・結果を受けての実装修正までをワンストップで担当
-
-## 🔭 図版収集・構成ツールの開発（2022年12月〜）
-
-### ✨2022年12月〜2023年５月　初期開発
-
-Webメディア「[松岡正剛の千夜千冊](https://1000ya.isis.ne.jp/)」編集チームからの依頼で、彼らが使用する図版収集・構成ツールを２人体制で開発。
-
-- 実施した施策
-  - 利用技術の選定
-    - フロントエンドは開発体験・後々のコード保守を鑑みてビルドツールにVite, 言語としてTypescriptを採用。フレームワークは実務で経験があったReactを選択。また、リポジトリ内でのコーディングスタイルをなるべく統一するためeslint, prettierを導入し、Github Actionsと組み合わせてCIが回せるように構築した。
-    - また主に共同開発者が作業するバックエンド側のインターフェース整合性を保つため、スキーマ駆動開発を提案・導入。OpenAPIを利用した「apidoc」を構築し、BE/FE間のAPI定義のずれが起こりにくくした。
-  - フロントエンド 初期実装
-    - react-router-domを利用したページ遷移の実装
-    - ツール上で作成した編集要素をドラッグ＆ドロップで並びかえる機能の実装
-    - [Firebase](https://firebase.google.com/?hl=ja)を用いた簡単なログイン機能の実装
-    - ESLint, Prettierを利用したコードチェック
-    - React Testing Libraryを利用したテストの実装
-    - Playwrightを利用したE2Eテストの実施
-    - GitHub Actionsを利用したコードチェック・テスト実施の自動化
-
-
+</div>
